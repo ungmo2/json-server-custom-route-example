@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "HTML",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "content": "CSS",
+      "completed": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Lee",
+      "role": "developer"
+    },
+    {
+      "id": 2,
+      "name": "Kim",
+      "role": "designer"
+    }
+  ]
+}
